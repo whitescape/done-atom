@@ -1,3 +1,3 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+* Tracking coding time for git repos
+* No settings required
