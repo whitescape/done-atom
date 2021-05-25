@@ -1,6 +1,8 @@
 {
   "name": "Hitman",
   "main": "./lib/hitman",
+  "author": "vk@whitescape.com",
+  "license": "MIT",
   "version": "0.1.0",
   "description": "*Proof-of-Concept* Time tracker for Done! app. https://testflight.apple.com/join/7JgET9cr",
   "keywords": [ "trello", "harvest", "tracker" ],
