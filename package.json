@@ -1,13 +1,13 @@
 {
-  "name": "hitman",
-  "main": "./lib/atom",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "name": "Hitman",
+  "main": "./lib/hitman",
+  "version": "0.1.0",
+  "description": "*Proof-of-Concept* Time tracker for Done! app. https://testflight.apple.com/join/7JgET9cr",
+  "keywords": [ "trello", "harvest", "tracker" ],
   "activationCommands": {
     "hitman-workspace": "hitman:auth"
   },
-  "repository": "https://github.com/whitescape/hitman",
+  "repository": "https://github.com/whitescape/done-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
