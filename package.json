@@ -7,7 +7,7 @@
   "activationCommands": {
     "hitman-workspace": "hitman:auth"
   },
-  "repository": "https://github.com/whitescape/done-atom",
+  "repository": "https://github.com/whitescape/done-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

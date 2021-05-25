@@ -1,5 +1,7 @@
-# atom package
+# Hitman
 
-A short description of your package.
+*Proof-of-Concept*
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Time tracker for Done! app.
+
+Get latest TestFlight version at https://testflight.apple.com/join/7JgET9cr
