@@ -3,7 +3,7 @@
   "main": "./lib/hitman",
   "author": "vk@whitescape.com",
   "license": "MIT",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Coding time tracker for Done! app",
   "keywords": [
     "trello",
