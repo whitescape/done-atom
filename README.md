@@ -1,6 +1,7 @@
 # Hitman
 
 *Proof-of-Concept*
+*Yet Mac OS only*
 
 Coding time tracker for Done! app.
 
